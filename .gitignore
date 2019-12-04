@@ -17,8 +17,7 @@
 .env.production.local
 
 .cache
-.parcel-cache
-/dist
+
 
 
 npm-debug.log*

@@ -1,4 +1,0 @@
-$parcel$require("84d5ed07b34bb29b287ed5dd472dd72c", "react");
-$parcel$require("84d5ed07b34bb29b287ed5dd472dd72c", "react-dom");
-$parcel$require("84d5ed07b34bb29b287ed5dd472dd72c", "./src/app");
-$d5ed07b34bb29b287ed5dd472dd72c$import$ReactDOM.render($d5ed07b34bb29b287ed5dd472dd72c$import$React.createElement($d5ed07b34bb29b287ed5dd472dd72c$import$App, null), document.getElementById('root'));

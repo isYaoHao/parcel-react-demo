@@ -1,8 +1,0 @@
-var $f17f244e8db207dae193584ccafa224e$exports = {};
-$parcel$require("f17f244e8db207dae193584ccafa224e", "react");
-
-var $f17f244e8db207dae193584ccafa224e$export$default = function () {
-  return $f17f244e8db207dae193584ccafa224e$import$React.createElement("p", null, "hello word");
-};
-
-$f17f244e8db207dae193584ccafa224e$exports.default = $f17f244e8db207dae193584ccafa224e$export$default;
