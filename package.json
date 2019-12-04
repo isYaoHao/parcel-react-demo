@@ -1,0 +1,26 @@
+{
+  "name": "parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html  -o index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-react": "^7.7.4",
+    "parcel": "^2.0.0-alpha.3.2",
+    "parcel-bundler": "^1.12.4",
+    "posthtml-modules": "^0.4.2",
+    "sass": "^1.23.7",
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "posthtml-img-autosize": "^0.1.4",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
